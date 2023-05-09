@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Luma Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="11.126">
+  <properties />
+  
+  
+            <testcase name="verifyProductsPriceDisplayHighToLowSuccessfully" time="4.156" classname="com.tutorialsninja.testsuite.LaptopsAndNotebooksTest" />
+                <testcase name="verifyThatUserPlaceOrderSuccessfully" time="6.970" classname="com.tutorialsninja.testsuite.LaptopsAndNotebooksTest" />
+      
+</testsuite>

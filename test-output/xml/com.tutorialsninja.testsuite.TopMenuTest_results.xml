@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Luma Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.973">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToComponentsPageSuccessfully" time="2.704" classname="com.tutorialsninja.testsuite.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToDesktopsPageSuccessfully" time="2.420" classname="com.tutorialsninja.testsuite.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" time="1.849" classname="com.tutorialsninja.testsuite.TopMenuTest" />
+      
+</testsuite>
